@@ -1,4 +1,4 @@
 gradle-class
 ============
 
-gradle class
+gradle classfoo
